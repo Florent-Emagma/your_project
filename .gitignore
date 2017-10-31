@@ -42,3 +42,6 @@
 
 #Composer
 /vendor/
+
+#PHPStorm
+.idea/*
